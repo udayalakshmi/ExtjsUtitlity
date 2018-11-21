@@ -7,7 +7,7 @@ Ext.define('ExtUtil.Ajax', {
       });
 			Ext.Ajax.on("requestcomplete",  function(){
 				console.log('Test well done test p rerere commith');
-      //This block will be executed after every ajax request
+      //This block will be executed aft wither every ajax request
       });
 			Ext.Ajax.on("requestexception", function(){
       //This block will be executed on exception of every ajax request
