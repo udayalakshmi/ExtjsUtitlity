@@ -6,7 +6,7 @@ Ext.define('ExtUtil.Ajax', {
       //This block will be executed before every ajax request
       });
 			Ext.Ajax.on("requestcomplete",  function(){
-				console.log('Test with Ajax.js from E:Extjs utilily only psush receive');
+				console.log('Test with Ajax.js from E:Extjs utilily only psush commit only');
       //This block will be executed aft wither every ajax request
       });
 			Ext.Ajax.on("requestexception", function(){
