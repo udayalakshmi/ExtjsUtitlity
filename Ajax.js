@@ -9,7 +9,7 @@ Ext.define('ExtUtil.Ajax', {
 				console.log('Test with Ajax.js from E:Extjs utilily only psush commit only');
       //This block will be executed aft wither every ajax request
       });
-			Ext.Ajax.on("requestexception", function(){
+			Ext.Ajax.on("requestexceptifgon", function(){
       //This block will be executed on exception of every ajax request
       });			
 		}
