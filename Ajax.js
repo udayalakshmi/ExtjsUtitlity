@@ -10,7 +10,7 @@ Ext.define('ExtUtil.Ajax', {
       //This block will be executed aft wither every ajax request
       });
 			Ext.Ajax.on("requestexceptifgon", function(){
-      //This block will be executed on exception of every ajax request test redmine test re dehs df updatedsd djkjehk jhwe ekw ehjwb hj
+      //This block will be executed on exception of every ajax request test redmine test re dehs df updatedsd djkjehk jhwe ekw ehjwb hj test rredmine
       });			
 		}
 	}
